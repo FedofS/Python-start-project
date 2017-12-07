@@ -25,7 +25,7 @@ SECRET_KEY = '8sn23*(78qp9dapy80ow6s!43%kuky*35t_%=rifzl*v5vo8)l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ffideas.herokuapp.com']
 
 
 # Application definition
